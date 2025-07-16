@@ -1,0 +1,50 @@
+server:
+  port: ${PORT:8080}
+  servlet:
+    context-path: /api
+
+
+spring:
+  application:
+    name: quiz-generator-backend
+  
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driver-class-name: org.h2.Driver
+    username: sa
+    password:
+  
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
+    defer-datasource-initialization: true
+  
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics
+
+logging:
+  level:
+    com.quizgenerator: DEBUG
+    org.springframework.web: DEBUG
+
+app:
+  anthropic:
+    api-key: ${ANTHROPIC_API_KEY}
+    base-url: https://api.anthropic.com
+    model: claude-3-5-sonnet-20241022
+    max-tokens: 4000
+    temperature: 0.7
+  
+  rate-limit:
+    window-ms: 900000
+    max-requests: 100

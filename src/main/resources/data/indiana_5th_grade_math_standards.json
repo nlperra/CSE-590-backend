@@ -1,0 +1,798 @@
+{
+  "metadata": {
+    "title": "Indiana Academic Standards for Mathematics - Grade 5",
+    "adoptionDate": "2023-06-07",
+    "source": "Indiana Department of Education",
+    "description": "Prioritized standards for 5th grade mathematics adopted by the State Board of Education",
+    "gradeLevel": 5,
+    "state": "Indiana"
+  },
+  "standards": [
+    {
+      "code": "5.NS.1",
+      "title": "Compare and Order Using Number Lines",
+      "description": "Use a number line to compare and order fractions, mixed numbers, and decimals to thousandths.",
+      "subSkills": [
+        "Place fractions on number lines",
+        "Place mixed numbers on number lines",
+        "Place decimals to thousandths on number lines",
+        "Compare fractions using number lines",
+        "Order multiple numbers using number lines"
+      ],
+      "concepts": [
+        "number line",
+        "fractions",
+        "mixed numbers",
+        "decimals",
+        "ordering",
+        "comparing"
+      ],
+      "prerequisites": [
+        "4.NS.1",
+        "4.NS.2"
+      ],
+      "difficulty": 3,
+      "vocabulary": [
+        "number line",
+        "fraction",
+        "mixed number",
+        "decimal",
+        "thousandths",
+        "compare",
+        "order"
+      ]
+    },
+    {
+      "code": "5.NS.2",
+      "title": "Interpretations of Fractions",
+      "description": "Explain different interpretations of fractions, including as parts of a whole, parts of a set, and division of whole numbers.",
+      "subSkills": [
+        "Identify fractions as parts of a whole",
+        "Identify fractions as parts of a set",
+        "Understand fractions as division",
+        "Explain fraction interpretations",
+        "Model different fraction meanings"
+      ],
+      "concepts": [
+        "fraction interpretations",
+        "parts of whole",
+        "parts of set",
+        "division relationship",
+        "mathematical modeling"
+      ],
+      "prerequisites": [
+        "4.NS.3",
+        "4.CA.3"
+      ],
+      "difficulty": 4,
+      "vocabulary": [
+        "fraction",
+        "whole",
+        "set",
+        "division",
+        "interpretation",
+        "numerator",
+        "denominator"
+      ]
+    },
+    {
+      "code": "5.NS.3",
+      "title": "Powers of 10 Patterns",
+      "description": "Explain patterns in the number of zeros of the product when multiplying a number by powers of 10.",
+      "subSkills": [
+        "Identify powers of 10",
+        "Multiply by powers of 10",
+        "Count zeros in products",
+        "Recognize multiplication patterns",
+        "Apply patterns to solve problems"
+      ],
+      "concepts": [
+        "powers of 10",
+        "multiplication patterns",
+        "place value",
+        "exponential notation",
+        "mathematical patterns"
+      ],
+      "prerequisites": [
+        "4.NS.1",
+        "4.CA.1"
+      ],
+      "difficulty": 3,
+      "vocabulary": [
+        "power",
+        "powers of 10",
+        "pattern",
+        "product",
+        "zeros",
+        "multiply"
+      ]
+    },
+    {
+      "code": "5.NS.4",
+      "title": "Percents and Equivalent Fractions",
+      "description": "Model percents as parts of 100 using pictures or diagrams and identify the equivalent fraction.",
+      "subSkills": [
+        "Model percents with pictures",
+        "Model percents with diagrams",
+        "Understand percent as parts of 100",
+        "Find equivalent fractions for percents",
+        "Convert between percents and fractions"
+      ],
+      "concepts": [
+        "percent",
+        "parts of 100",
+        "equivalent fractions",
+        "visual models",
+        "mathematical representation"
+      ],
+      "prerequisites": [
+        "4.NS.3",
+        "5.NS.2"
+      ],
+      "difficulty": 4,
+      "vocabulary": [
+        "percent",
+        "equivalent",
+        "fraction",
+        "diagram",
+        "model",
+        "parts of 100"
+      ]
+    },
+    {
+      "code": "5.CA.1",
+      "title": "Division with Remainders",
+      "description": "Find whole-number quotients and remainders with up to four-digit dividends and two-digit divisors using various strategies.",
+      "subSkills": [
+        "Divide four-digit numbers",
+        "Use long division algorithm",
+        "Find quotients and remainders",
+        "Apply division strategies",
+        "Check division results"
+      ],
+      "concepts": [
+        "division algorithm",
+        "quotient",
+        "remainder",
+        "long division",
+        "division strategies"
+      ],
+      "prerequisites": [
+        "4.CA.2",
+        "4.CA.3"
+      ],
+      "difficulty": 4,
+      "vocabulary": [
+        "dividend",
+        "divisor",
+        "quotient",
+        "remainder",
+        "long division",
+        "algorithm"
+      ]
+    },
+    {
+      "code": "5.CA.2",
+      "title": "Real-World Multiplication and Division",
+      "description": "Solve real-world problems involving multiplication and division of whole numbers using various strategies.",
+      "subSkills": [
+        "Identify multiplication problems in context",
+        "Identify division problems in context",
+        "Choose appropriate strategies",
+        "Solve multi-step problems",
+        "Interpret solutions in context"
+      ],
+      "concepts": [
+        "real-world applications",
+        "problem solving",
+        "multiplication strategies",
+        "division strategies",
+        "mathematical reasoning"
+      ],
+      "prerequisites": [
+        "4.CA.4",
+        "5.CA.1"
+      ],
+      "difficulty": 3,
+      "vocabulary": [
+        "real-world",
+        "strategy",
+        "multiply",
+        "divide",
+        "problem solving",
+        "context"
+      ]
+    },
+    {
+      "code": "5.CA.3",
+      "title": "Add and Subtract Fractions",
+      "description": "Add and subtract fractions and mixed numbers with unlike denominators using various strategies.",
+      "subSkills": [
+        "Find common denominators",
+        "Add fractions with unlike denominators",
+        "Subtract fractions with unlike denominators",
+        "Add mixed numbers",
+        "Subtract mixed numbers"
+      ],
+      "concepts": [
+        "unlike denominators",
+        "common denominators",
+        "equivalent fractions",
+        "mixed numbers",
+        "fraction operations"
+      ],
+      "prerequisites": [
+        "4.CA.3",
+        "5.NS.2"
+      ],
+      "difficulty": 4,
+      "vocabulary": [
+        "unlike denominators",
+        "common denominator",
+        "equivalent fraction",
+        "mixed number",
+        "add",
+        "subtract"
+      ]
+    },
+    {
+      "code": "5.CA.4",
+      "title": "Fraction Word Problems",
+      "description": "Solve real-world problems involving addition and subtraction of fractions with like and unlike denominators.",
+      "subSkills": [
+        "Identify fraction operations in word problems",
+        "Set up fraction addition problems",
+        "Set up fraction subtraction problems",
+        "Solve fraction word problems",
+        "Interpret fraction solutions"
+      ],
+      "concepts": [
+        "real-world applications",
+        "fraction word problems",
+        "problem solving strategies",
+        "mathematical communication",
+        "solution interpretation"
+      ],
+      "prerequisites": [
+        "5.CA.3",
+        "5.NS.2"
+      ],
+      "difficulty": 4,
+      "vocabulary": [
+        "word problem",
+        "real-world",
+        "fraction",
+        "solution",
+        "interpret",
+        "context"
+      ]
+    },
+    {
+      "code": "5.CA.5",
+      "title": "Multiply Fractions with Visual Models",
+      "description": "Use visual fraction models to multiply fractions and whole numbers.",
+      "subSkills": [
+        "Model fraction multiplication",
+        "Multiply fractions by whole numbers",
+        "Multiply fractions by fractions",
+        "Use area models for multiplication",
+        "Interpret visual models"
+      ],
+      "concepts": [
+        "visual models",
+        "fraction multiplication",
+        "area models",
+        "mathematical representation",
+        "conceptual understanding"
+      ],
+      "prerequisites": [
+        "4.CA.3",
+        "5.NS.2"
+      ],
+      "difficulty": 4,
+      "vocabulary": [
+        "visual model",
+        "multiply",
+        "fraction",
+        "area model",
+        "whole number",
+        "product"
+      ]
+    },
+    {
+      "code": "5.CA.6",
+      "title": "Divide Fractions with Visual Models",
+      "description": "Use visual fraction models to divide fractions by whole numbers and whole numbers by fractions.",
+      "subSkills": [
+        "Model fraction division",
+        "Divide fractions by whole numbers",
+        "Divide whole numbers by fractions",
+        "Use visual representations",
+        "Interpret division results"
+      ],
+      "concepts": [
+        "visual models",
+        "fraction division",
+        "mathematical representation",
+        "inverse operations",
+        "conceptual understanding"
+      ],
+      "prerequisites": [
+        "5.CA.5",
+        "5.NS.2"
+      ],
+      "difficulty": 5,
+      "vocabulary": [
+        "visual model",
+        "divide",
+        "fraction",
+        "whole number",
+        "quotient",
+        "division"
+      ]
+    },
+    {
+      "code": "5.CA.7",
+      "title": "Fraction Multiplication Word Problems",
+      "description": "Solve real-world problems involving multiplication of fractions and mixed numbers.",
+      "subSkills": [
+        "Identify multiplication scenarios",
+        "Set up fraction multiplication problems",
+        "Solve fraction multiplication word problems",
+        "Work with mixed numbers in context",
+        "Interpret multiplication results"
+      ],
+      "concepts": [
+        "real-world applications",
+        "fraction multiplication",
+        "problem solving",
+        "mixed numbers",
+        "solution interpretation"
+      ],
+      "prerequisites": [
+        "5.CA.5",
+        "5.CA.4"
+      ],
+      "difficulty": 4,
+      "vocabulary": [
+        "word problem",
+        "multiply",
+        "fraction",
+        "mixed number",
+        "real-world",
+        "solution"
+      ]
+    },
+    {
+      "code": "5.CA.8",
+      "title": "Fraction Division Word Problems",
+      "description": "Solve real-world problems involving division of fractions and mixed numbers.",
+      "subSkills": [
+        "Identify division scenarios",
+        "Set up fraction division problems",
+        "Solve fraction division word problems",
+        "Work with mixed numbers in division",
+        "Interpret division results"
+      ],
+      "concepts": [
+        "real-world applications",
+        "fraction division",
+        "problem solving",
+        "mixed numbers",
+        "solution interpretation"
+      ],
+      "prerequisites": [
+        "5.CA.6",
+        "5.CA.4"
+      ],
+      "difficulty": 5,
+      "vocabulary": [
+        "word problem",
+        "divide",
+        "fraction",
+        "mixed number",
+        "real-world",
+        "solution"
+      ]
+    },
+    {
+      "code": "5.CA.9",
+      "title": "Decimal Operations",
+      "description": "Add, subtract, multiply, and divide decimals to hundredths using various strategies and algorithms.",
+      "subSkills": [
+        "Add decimals to hundredths",
+        "Subtract decimals to hundredths",
+        "Multiply decimals to hundredths",
+        "Divide decimals to hundredths",
+        "Apply decimal algorithms"
+      ],
+      "concepts": [
+        "decimal operations",
+        "place value",
+        "algorithms",
+        "mathematical strategies",
+        "hundredths"
+      ],
+      "prerequisites": [
+        "4.CA.2",
+        "5.NS.1"
+      ],
+      "difficulty": 4,
+      "vocabulary": [
+        "decimal",
+        "hundredths",
+        "add",
+        "subtract",
+        "multiply",
+        "divide",
+        "algorithm"
+      ]
+    },
+    {
+      "code": "5.CA.10",
+      "title": "Decimal Word Problems",
+      "description": "Solve real-world problems involving addition, subtraction, multiplication, and division of decimals to hundredths.",
+      "subSkills": [
+        "Identify decimal operations in context",
+        "Set up decimal word problems",
+        "Solve decimal computation problems",
+        "Apply decimal operations to real situations",
+        "Interpret decimal solutions"
+      ],
+      "concepts": [
+        "real-world applications",
+        "decimal operations",
+        "problem solving",
+        "mathematical reasoning",
+        "solution interpretation"
+      ],
+      "prerequisites": [
+        "5.CA.9",
+        "5.CA.2"
+      ],
+      "difficulty": 4,
+      "vocabulary": [
+        "word problem",
+        "decimal",
+        "real-world",
+        "computation",
+        "solution",
+        "context"
+      ]
+    },
+    {
+      "code": "5.CA.11",
+      "title": "Coordinate Plane Graphing",
+      "description": "Graph ordered pairs in the first quadrant of the coordinate plane and interpret coordinate values in context.",
+      "subSkills": [
+        "Identify coordinate plane components",
+        "Plot ordered pairs",
+        "Read coordinates from graphs",
+        "Interpret coordinate meanings",
+        "Solve coordinate problems"
+      ],
+      "concepts": [
+        "coordinate plane",
+        "ordered pairs",
+        "first quadrant",
+        "x-axis",
+        "y-axis",
+        "mathematical representation"
+      ],
+      "prerequisites": [
+        "4.CA.1",
+        "5.NS.1"
+      ],
+      "difficulty": 3,
+      "vocabulary": [
+        "coordinate plane",
+        "ordered pair",
+        "x-axis",
+        "y-axis",
+        "quadrant",
+        "plot",
+        "graph"
+      ]
+    },
+    {
+      "code": "5.G.1",
+      "title": "Geometric Properties and Relationships",
+      "description": "Identify and draw points, lines, line segments, rays, angles, and perpendicular and parallel lines using appropriate mathematical tools.",
+      "subSkills": [
+        "Identify geometric elements",
+        "Draw points and lines",
+        "Recognize parallel lines",
+        "Recognize perpendicular lines",
+        "Use geometric tools accurately"
+      ],
+      "concepts": [
+        "geometric elements",
+        "parallel lines",
+        "perpendicular lines",
+        "angles",
+        "mathematical tools",
+        "geometric relationships"
+      ],
+      "prerequisites": [
+        "4.G.1",
+        "4.G.2"
+      ],
+      "difficulty": 3,
+      "vocabulary": [
+        "point",
+        "line",
+        "line segment",
+        "ray",
+        "angle",
+        "parallel",
+        "perpendicular",
+        "geometric tools"
+      ]
+    },
+    {
+      "code": "5.G.2",
+      "title": "Coordinate Geometry",
+      "description": "Plot and identify points in the first quadrant of the coordinate plane and describe relationships between coordinates.",
+      "subSkills": [
+        "Plot points on coordinate plane",
+        "Identify point coordinates",
+        "Describe coordinate relationships",
+        "Find distances on coordinate plane",
+        "Analyze coordinate patterns"
+      ],
+      "concepts": [
+        "coordinate geometry",
+        "coordinate plane",
+        "first quadrant",
+        "coordinate relationships",
+        "distance measurement"
+      ],
+      "prerequisites": [
+        "5.CA.11",
+        "5.G.1"
+      ],
+      "difficulty": 4,
+      "vocabulary": [
+        "coordinate plane",
+        "coordinates",
+        "first quadrant",
+        "plot",
+        "distance",
+        "relationship"
+      ]
+    },
+    {
+      "code": "5.M.1",
+      "title": "Unit Conversions",
+      "description": "Convert among different-sized standard measurement units within a given measurement system and use these conversions in solving real-world problems.",
+      "subSkills": [
+        "Convert length measurements",
+        "Convert weight measurements",
+        "Convert capacity measurements",
+        "Apply conversions to word problems",
+        "Choose appropriate units"
+      ],
+      "concepts": [
+        "unit conversion",
+        "measurement systems",
+        "length",
+        "weight",
+        "capacity",
+        "real-world applications"
+      ],
+      "prerequisites": [
+        "4.M.1",
+        "4.M.2"
+      ],
+      "difficulty": 3,
+      "vocabulary": [
+        "convert",
+        "measurement",
+        "units",
+        "length",
+        "weight",
+        "capacity",
+        "standard units"
+      ]
+    },
+    {
+      "code": "5.M.2",
+      "title": "Area with Fractional Side Lengths",
+      "description": "Find the area of rectangles with fractional side lengths by tiling and by multiplying side lengths.",
+      "subSkills": [
+        "Calculate area with fractional lengths",
+        "Use tiling method for area",
+        "Multiply fractional side lengths",
+        "Compare area calculation methods",
+        "Apply area formulas"
+      ],
+      "concepts": [
+        "area calculation",
+        "fractional measurements",
+        "tiling method",
+        "multiplication of fractions",
+        "geometric measurement"
+      ],
+      "prerequisites": [
+        "4.M.3",
+        "5.CA.5"
+      ],
+      "difficulty": 4,
+      "vocabulary": [
+        "area",
+        "rectangle",
+        "fractional",
+        "side length",
+        "tiling",
+        "multiply",
+        "square units"
+      ]
+    },
+    {
+      "code": "5.M.3",
+      "title": "Area Formulas for Polygons",
+      "description": "Use and apply formulas to find areas of triangles, parallelograms, and trapezoids.",
+      "subSkills": [
+        "Apply triangle area formula",
+        "Apply parallelogram area formula",
+        "Apply trapezoid area formula",
+        "Choose appropriate formulas",
+        "Solve area problems"
+      ],
+      "concepts": [
+        "area formulas",
+        "triangles",
+        "parallelograms",
+        "trapezoids",
+        "geometric measurement",
+        "formula application"
+      ],
+      "prerequisites": [
+        "5.M.2",
+        "5.G.1"
+      ],
+      "difficulty": 4,
+      "vocabulary": [
+        "area",
+        "formula",
+        "triangle",
+        "parallelogram",
+        "trapezoid",
+        "base",
+        "height"
+      ]
+    },
+    {
+      "code": "5.M.4",
+      "title": "Volume with Unit Cubes",
+      "description": "Find the volume of rectangular prisms by counting unit cubes and applying volume formulas.",
+      "subSkills": [
+        "Count unit cubes for volume",
+        "Apply volume formulas",
+        "Calculate volume of rectangular prisms",
+        "Understand volume concept",
+        "Compare volume methods"
+      ],
+      "concepts": [
+        "volume measurement",
+        "unit cubes",
+        "rectangular prisms",
+        "volume formulas",
+        "three-dimensional measurement"
+      ],
+      "prerequisites": [
+        "4.M.3",
+        "5.M.2"
+      ],
+      "difficulty": 4,
+      "vocabulary": [
+        "volume",
+        "unit cube",
+        "rectangular prism",
+        "length",
+        "width",
+        "height",
+        "cubic units"
+      ]
+    },
+    {
+      "code": "5.M.5",
+      "title": "Volume Problem Solving",
+      "description": "Apply volume formulas for rectangular prisms to solve real-world and mathematical problems.",
+      "subSkills": [
+        "Identify volume problems in context",
+        "Apply volume formulas to word problems",
+        "Calculate volumes for real situations",
+        "Interpret volume solutions",
+        "Compare volumes of different objects"
+      ],
+      "concepts": [
+        "volume applications",
+        "real-world problems",
+        "mathematical problem solving",
+        "formula application",
+        "solution interpretation"
+      ],
+      "prerequisites": [
+        "5.M.4",
+        "5.CA.2"
+      ],
+      "difficulty": 4,
+      "vocabulary": [
+        "volume",
+        "formula",
+        "real-world",
+        "problem solving",
+        "rectangular prism",
+        "cubic units"
+      ]
+    },
+    {
+      "code": "5.DA.1",
+      "title": "Data Display and Interpretation",
+      "description": "Create and interpret line plots, bar graphs, and other data displays to solve problems and answer questions about data sets.",
+      "subSkills": [
+        "Create line plots",
+        "Create bar graphs",
+        "Interpret data displays",
+        "Answer questions about data",
+        "Compare data sets"
+      ],
+      "concepts": [
+        "data displays",
+        "line plots",
+        "bar graphs",
+        "data interpretation",
+        "data analysis",
+        "statistical reasoning"
+      ],
+      "prerequisites": [
+        "4.DA.1",
+        "5.NS.1"
+      ],
+      "difficulty": 3,
+      "vocabulary": [
+        "data",
+        "line plot",
+        "bar graph",
+        "interpret",
+        "display",
+        "data set"
+      ]
+    },
+    {
+      "code": "5.DA.2",
+      "title": "Statistical Measures",
+      "description": "Calculate and interpret measures of center (mean, median, mode) and measures of variability for data sets.",
+      "subSkills": [
+        "Calculate mean",
+        "Find median",
+        "Identify mode",
+        "Interpret measures of center",
+        "Compare statistical measures"
+      ],
+      "concepts": [
+        "measures of center",
+        "mean",
+        "median",
+        "mode",
+        "statistical analysis",
+        "data interpretation"
+      ],
+      "prerequisites": [
+        "5.DA.1",
+        "5.CA.9"
+      ],
+      "difficulty": 4,
+      "vocabulary": [
+        "mean",
+        "median",
+        "mode",
+        "average",
+        "center",
+        "data set",
+        "measure"
+      ]
+    }
+  ]
+}

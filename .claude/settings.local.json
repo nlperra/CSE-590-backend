@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mvn:*)",
+      "Bash(ANTHROPIC_API_KEY=test mvn spring-boot:run -Dspring-boot.run.arguments=\"--spring.main.web-application-type=none\")",
+      "Bash(mkdir:*)",
+      "WebFetch(domain:www.in.gov)",
+      "WebFetch(domain:www.ixl.com)",
+      "Bash(curl:*)",
+      "Bash(printenv)",
+      "Bash(export ANTHROPIC_API_KEY=dummy_key)",
+      "Bash(find:*)",
+      "Bash(grep:*)"
+    ],
+    "deny": []
+  }
+}
